@@ -1,4 +1,0 @@
-Pr2
-===
-
-Universidad
